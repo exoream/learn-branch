@@ -5,3 +5,7 @@ function sumTwoNumbers(a, b) {
 function multiplyTwoNumbers(a, b) {
   return a * b;
 }
+
+function divideTwoNumbers(a, b) {
+  return a / b;
+}
