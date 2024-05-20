@@ -13,3 +13,7 @@ function divideTwoNumbers(a, b) {
 function squareNumber(a) {
   return a * a;
 }
+
+function subtractTwoNumbers(a, b) {
+  return a - b;
+}
