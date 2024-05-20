@@ -9,3 +9,7 @@ function multiplyTwoNumbers(a, b) {
 function divideTwoNumbers(a, b) {
   return a / b;
 }
+
+function subtractTwoNumbers(a, b) {
+  return a - b;
+}
